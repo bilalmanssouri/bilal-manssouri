@@ -5,6 +5,7 @@ I am a dedicated programming student with experience solving over 1,500 problems
 Currently, I am expanding my expertise by transitioning to C# and the .NET Framework.
 
 👩‍💻 Technical Proficiencies:
+
 - Languages & Technologies: C++, C#, .NET Framework (WinForms).
 - Concepts: Procedural & Object-Oriented Programming (OOP), Recursion, Data Structures, 
  Algorithms, Big O Notation (Optimization), Abstraction, Encapsulation, and Inheritance.
