@@ -2,10 +2,10 @@
 About me 👨‍🎓 Student @ProgrammingAdvices
 
 I am a dedicated programming student with experience solving over 1,500 problems using C++ on [Programming Advices](https://programmingadvices.com/) Road Map.
-Currently, I am expanding my expertise by transitioning to C# and the .NET Framework.
+Currently, Focusing on .NET environment and I am expanding my expertise by transitioning to C# and the .NET Framework.
 
 👩‍💻 Technical Proficiencies:
-- Languages & Technologies: C++, C#, .NET Framework (WinForms).
+- Languages & Technologies: C++, C#, .NET Framework, WinForms framework.
 - Concepts: Procedural & Object-Oriented Programming (OOP), Recursion, Data Structures, 
  Algorithms, Big O Notation (Optimization), Abstraction, Encapsulation, and Inheritance.
 - Networking Basics: IP, TCP, HTTP(S), DNS, DHCP.
