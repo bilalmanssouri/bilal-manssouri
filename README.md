@@ -1,6 +1,6 @@
 # About
 Hi! I'm Bilal Manssouri, self taught software developer, student [@Programming Advices.](programmingadvices.com)
-I've gained a strong foundational basics in computer programming, with focus on C++, following a structured path designed by an IT expert, with over 28 years of experience.
+I've gained a strong foundational basics in computer programming, with a focus on C++, following a structured path designed by an IT expert, with over 28 years of experience.
 I have expanded my skill set to include C# and the .NET framework 4.7, with the goal of becoming a proficient .NET software developer. In addition to programming skills, I have also developed a solid understanding of relational databases, design principles, and data modeling, with a focus on SQL Server. With an intention of becoming a full stack .NET developer.
 
 👩‍💻 Technical Proficiencies:
